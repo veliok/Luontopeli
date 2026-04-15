@@ -3,8 +3,8 @@
 ## Tiedostot
 APK ja AAB löytyvät repositorion **Releases** osiosta.
 
-## Toteutetut osiot 70p
-**Kaikki perussuoritukset (Viikot 1-7)**
+## Toteutetut osiot 95p
+**Kaikki perussuoritukset (Viikot 1-7)** 70p
 
 #### Lisäominaisuudet 25p:
 1. **Firebase**:            
